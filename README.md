@@ -8,7 +8,7 @@ Credit Card Fraud Detection
 
 SMS Spam Detection
 
-### Overview
+### Abstract
 Dataset
 Preprocessing
 Model Training
@@ -120,7 +120,7 @@ print("Accuracy Score:", accuracy_score(Y_sms_test, Y_sms_pred))
 ---
 
 
-Usage
+## Usage
 Credit Card Fraud Detection:
 Run the Jupyter notebook or Python script for the credit card fraud detection task.
 SMS Spam Detection:
