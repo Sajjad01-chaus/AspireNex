@@ -5,10 +5,14 @@ Overview
 This repository contains the code and documentation for two machine learning tasks completed as part of the AspireNex Machine Learning internship. The tasks include:
 
 Credit Card Fraud Detection
+
 SMS Spam Detection
+
 Table of Contents
+
 Credit Card Fraud Detection
-Overview
+
+### Overview
 Dataset
 Preprocessing
 Model Training
