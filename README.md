@@ -19,10 +19,7 @@ Dataset
 Preprocessing
 Model Training
 Evaluation
-Installation
 Usage.
-
-Sure, let's make the README file shorter while still covering the essential points.
 
 ---
 
